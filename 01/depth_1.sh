@@ -1,0 +1,1 @@
+printf $(find $(fzf) -type f) | tr -cd / | wc -m

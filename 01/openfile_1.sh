@@ -1,0 +1,1 @@
+nano $(find $(fzf) -type f)
